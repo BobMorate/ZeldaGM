@@ -1,0 +1,1 @@
+color=argument[0];

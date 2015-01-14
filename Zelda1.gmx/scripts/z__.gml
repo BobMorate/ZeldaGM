@@ -1,0 +1,1 @@
+z=argument[0];
